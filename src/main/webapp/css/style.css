@@ -1,0 +1,11 @@
+.form-inline {
+    float: right;
+}
+.page-navigation {
+    float: right;
+}
+#show-entries {
+    padding-top: 7px;
+    text-align: center;
+    vertical-align: baseline;
+}
